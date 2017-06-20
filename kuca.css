@@ -1,0 +1,35 @@
+p{
+	color: #FF0000;
+	
+	font-size: 50px;
+
+}
+h1{
+	color: #FF0000;
+	font-size: 70px;
+	font-family: 'Alfa Slab One', cursive;
+	text-shadow: 10px 20px 25px #000000;
+
+}
+
+p{
+	font-family: 'Alfa Slab One', cursive;
+	text-shadow: 10px 20px 25px #000000;
+}
+
+
+body{
+	text-align: center;
+}
+body {
+	background-image: url(dogs_copy.jpg);
+	background-color: lightblue;
+}
+a{
+	font-size: 40px;
+	font-family: 'Alfa Slab One', cursive;
+	text-shadow: 10px 20px 25px #000000;
+	outline: #FF0000 dotted thick;
+	color: #FF0000;
+}
+
